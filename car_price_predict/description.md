@@ -1,5 +1,5 @@
 # Belarus Car Price Prediction
-![](https://i0.wp.com/bestsellingcarsblog.com/wp-content/uploads/2020/01/Geely-Atlas-Belarus-2019.jpg?fit=600%2C400&ssl=1)
+![](https://avatars.mds.yandex.net/i?id=e0b4e09deeca61c7f9396f80004321ec5eb49331-12752977-images-thumbs&n=13))
 ## Project Overview:
 The Belarus Car Price Prediction project aims to forecast the prices of cars in Belarus by leveraging a dataset containing essential car features. These features include the make, model, year of production, condition, mileage, fuel type, engine volume, color, transmission type, drive unit, and segment. With a total of 56,244 rows and 12 columns, this project seeks to identify the key variables that have the most significant impact on car prices within the Belarusian market.
 
