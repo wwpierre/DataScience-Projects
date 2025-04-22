@@ -29,19 +29,10 @@ It also includes an animated visualization of how ROC AUC evolves during trainin
 
 ---
 
-## 📈 Example Animation
-
-![ROC AUC Animation](images/roc_auc_animation.gif)
-
----
 
 ## 📦 Dependencies
 
-Install with:
 
-```bash
-pip install -r requirements.txt
-```
 
 Main libraries:
 - `pandas`
@@ -73,4 +64,4 @@ You can run this notebook in:
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [ww_pierre]
